@@ -210,11 +210,6 @@ Write clear PR descriptions, add tests for critical logic, and follow the code s
 * If frontend can't load data: ensure backend is running and `API_URL` is correct in `frontend/context/Store.tsx`.
 * If DB errors: verify `MONGO_URI` and that MongoDB is running.
 
----
-
-## 📄 License
-
-MIT — see `LICENSE`.
 
 ---
 
